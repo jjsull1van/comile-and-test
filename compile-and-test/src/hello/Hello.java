@@ -10,6 +10,7 @@ package hello;
 
 public class Hello {
     public String getMessage() {
-        return "Hello";
+        //demo
+		return "Hello";
     }
 }
